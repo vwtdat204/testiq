@@ -1,0 +1,29 @@
+{
+    "doanhinh": [
+        {
+            "tukhoa": "âm nhạc",
+            "sokitu": "☐☐ ☐☐☐☐",
+            "suggestions": "Â☐ N☐☐☐",
+            "link": "https://imgur.com/EbqXTyG.jpg"
+        }, 
+        {
+            "tukhoa": "hai bà trưng",
+            "sokitu": "☐☐☐ ☐☐ ☐☐☐☐☐",
+            "suggestions": "H☐☐ B☐ T☐☐☐☐",
+            "link": "https://imgur.com/KMN7krf.jpg"
+        },
+        {
+            "tukhoa": "lên voi xuống chó",
+            "sokitu": "☐☐☐ ☐☐☐ ☐☐☐☐☐ ☐☐☐",
+            "suggestions": "L☐☐ V☐☐ X☐☐☐☐ C☐☐",
+            "link": "https://imgur.com/tYorxWl.jpg"
+        },
+        {
+            "tukhoa": "đàn gảy tai trâu",
+            "sokitu": "☐☐☐ ☐☐☐ ☐☐☐ ☐☐☐☐",
+            "suggestions": "Đ☐☐ G☐☐ T☐☐ T☐☐☐",
+            "link": "https://imgur.com/KuouQm4.jpg"
+        },
+        
+    ]
+}
